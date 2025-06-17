@@ -57,7 +57,6 @@ fields_of_interests:
     "Cyber Risk Management",
     "Cloud Security",
     "Software as a Service",
-    "Microservices Architecture",
   ]
 currently_learning:
   [
