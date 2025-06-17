@@ -44,6 +44,12 @@ past_experiences:
       "Brazil",
       "Nov-2024/the moment",
     ]
+  - [
+      "E-Commerce Assistant",
+      "Enxuto Supermercados",
+      "Brazil",
+      "Set-2022/Mar-2023",
+    ]
 
 fields_of_interests:
   [
