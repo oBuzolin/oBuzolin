@@ -37,7 +37,7 @@ education:
     "System Developing": "Colégio Técnico de Limeira (COTIL)",
   ]
 past_experiences:
--   [
+  - [
       "E-Commerce Assistant",
       "Enxuto Supermercados",
       "Brazil",
