@@ -148,7 +148,7 @@ will_learn: ["Quantum Computing"]
 <div>
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-busolin-da-silva-3a243226bn/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardo-busolin-da-silva" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=buzolinedu@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
 </div>
