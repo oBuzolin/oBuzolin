@@ -37,18 +37,18 @@ education:
     "System Developing": "Colégio Técnico de Limeira (COTIL)",
   ]
 past_experiences:
+-   [
+      "E-Commerce Assistant",
+      "Enxuto Supermercados",
+      "Brazil",
+      "Set-2022/Mar-2023",
+    ]
   - ["E-Commerce Assistant", "RR Parafusos Limeira", "Brazil", "2023/Oct-2024"]
   - [
       "E-Commerce Manger",
       "Limerfix Suprimentos Indústriais",
       "Brazil",
       "Nov-2024/the moment",
-    ]
-  - [
-      "E-Commerce Assistant",
-      "Enxuto Supermercados",
-      "Brazil",
-      "Set-2022/Mar-2023",
     ]
 
 fields_of_interests:
