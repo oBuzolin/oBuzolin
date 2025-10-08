@@ -34,7 +34,7 @@ job: E-Commerce Manager
 education:
   [
     "Computer Science": "UNIP",
-    "System Developing": "Colégio Técnico de Limeira (COTIL)",
+    "System Development": "Colégio Técnico de Limeira (COTIL)",
   ]
 past_experiences:
   - [
