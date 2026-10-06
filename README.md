@@ -53,7 +53,6 @@ past_experiences:
 
 fields_of_interests:
   [
-    "Mobile App Development",
     "Write Once, Run Everywhere ",
     "Network Security",
     "Cryptography",
@@ -66,14 +65,12 @@ fields_of_interests:
   ]
 currently_learning:
   [
-    "Kotlin",
-    "Android App Development",
-    "Revisiting Java main concepts",
-    "Operating Systems",
     "Cybersecurity Concepts",
     "Software Architectures",
-    "Data Analysis",
     "Database Management",
+    "Operating Systems",
+    "Data Analysis",
+    "Revisiting Java main concepts",
   ]
 will_learn: ["Quantum Computing"]
 ```
